@@ -17,3 +17,4 @@ ignore$
 ^\.github/
 *.abap
 (?:^|/)src/
+.abapgit.xml

@@ -1,0 +1,4 @@
+.md
+.MD
+.txt
+.TXT

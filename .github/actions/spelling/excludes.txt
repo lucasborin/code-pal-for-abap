@@ -16,3 +16,4 @@ ignore$
 \.wav$
 ^\.github/
 *.abap
+(?:^|/)src/

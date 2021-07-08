@@ -2,10 +2,7 @@ name: Check Spelling
 on:
   pull_request:
     paths:
-    - '**.js'
-    - '**.vue'
     - '**.txt'
-    - '**.html'
     - '**.md'
 jobs:
   spelling:
